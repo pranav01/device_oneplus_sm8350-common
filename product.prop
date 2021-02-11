@@ -10,6 +10,9 @@ persist.vendor.camera.privapp.list=com.oplus.camera,com.android.camera,org.codea
 vendor.camera.algo.jpeghwencode=0
 vendor.camera.aux.packagelist=com.oplus.camera,com.android.camera,org.codeaurora.snapcam
 
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
 # GMS
 ro.opa.device_model_id=ga-oplus-skill-os121-211011
 
