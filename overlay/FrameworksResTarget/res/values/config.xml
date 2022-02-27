@@ -150,4 +150,8 @@
      <string name="db_default_sync_mode">OFF</string>
      <string name="db_wal_sync_mode">OFF</string>
 
+    <!-- The maximum range of gamma adjustment possible using the screen
+         auto-brightness adjustment setting. -->
+    <fraction name="config_autoBrightnessAdjustmentMaxGamma">150%</fraction>
+
 </resources>
