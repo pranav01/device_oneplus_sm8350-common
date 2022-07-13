@@ -145,4 +145,9 @@
     <!-- Whether to use old mobile type icons as default -->
     <bool name="config_useOldMobileIcons">true</bool>
 
+     <!-- SQLite -->
+     <string name="db_default_journal_mode">MEMORY</string>
+     <string name="db_default_sync_mode">OFF</string>
+     <string name="db_wal_sync_mode">OFF</string>
+
 </resources>
